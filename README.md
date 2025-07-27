@@ -4,7 +4,6 @@
 
 ### Seu tutor pessoal com IA para aprendizado infinito e sob medida.
 
-![Header](https://user-images.githubusercontent.com/1321458/232144342-944a95b3-3a6d-4089-b80c-b3a1a36418a1.png)
 
 </div>
 
@@ -20,7 +19,7 @@
 </div>
 
 <p align="center">
-  <em>Um projeto idealizado e arquitetado por <a href="https://www.linkedin.com/in/itilmgf/" target="_blank">Elias dos Santos de Andrade</a></em>
+  <em>Idealizado por <a href="https://www.linkedin.com/in/itilmgf/" target="_blank">Elias Andrade</a></em>
 </p>
 
 ---
