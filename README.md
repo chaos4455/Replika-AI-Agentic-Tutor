@@ -87,11 +87,11 @@ A versão 7.0 é apenas o começo. Este projeto serve como base para um agente d
 
 ---
 
-## 👨‍💻 Sobre o Arquiteto
+## 👨‍💻 Sobre mim
 
 <img src="https://avatars.githubusercontent.com/u/7990529?v=4" width="100" align="left" style="margin-right: 20px; border-radius: 50%;">
 
-Eu sou **Elias dos Santos de Andrade**, um Arquiteto de Soluções de IA e Desenvolvedor apaixonado por construir a ponte entre o potencial da Inteligência Artificial e aplicações práticas que resolvem problemas do mundo real.
+Eu sou **Elias Andrade**, Arquiteto de Soluções de IA e Desenvolvedor apaixonado por construir a ponte entre o potencial da Inteligência Artificial e aplicações práticas que resolvem problemas do mundo real.
 
 Com uma forte bagagem em **LLMs, NLP, Web Apps, e na criação de Agentes e Co-pilots**, meu foco é projetar sistemas inteligentes que não sejam apenas funcionais, mas também intuitivos, éticos e que agreguem valor real à vida das pessoas. Este projeto é um reflexo dessa filosofia.
 
