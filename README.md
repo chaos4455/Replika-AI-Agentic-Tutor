@@ -4,6 +4,7 @@
 
 ### Seu tutor pessoal com IA para aprendizado infinito e sob medida.
 
+<img width="1408" height="768" alt="download" src="https://github.com/user-attachments/assets/df3f4b9a-9040-4ad5-a240-7706c19d5e27" />
 
 </div>
 
