@@ -13,7 +13,7 @@ from flask import Flask, request, jsonify, render_template_string
 from waitress import serve
 
 # --- Configuration Constants ---
-APP_VERSION = "7.0-AI-Explanations"
+APP_VERSION = "7.0-AI-Agentic-tutor By Replika AI Solutions"
 CONFIG = {
     "API_KEY": 'SUA-CHAVE-API',
     "MODEL_NAME": "gemini-1.5-flash-latest",
